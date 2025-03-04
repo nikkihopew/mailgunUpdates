@@ -846,7 +846,7 @@ xmlns:o="urn:schemas-microsoft-com:office:office">
                       <td height="73px" width="100%" style="width: 100%; height: 73px; text-align: center; background-color: #fff; background-image: https://7324260.fs1.hubspotusercontent-na1.net/hubfs/7324260/Email%20Header%20Background.png; background-size: 100% 100%; background-repeat: no-repeat;">
                         <!-- Default logo -->
                           <img src="https://7324260.fs1.hubspotusercontent-na1.net/hubfs/7324260/fem%20excel%20teal-1.png" alt="Fem Excel logo" class="headerLogo heading-img"
-                            style="width:200px" />
+                            style="width:200px; padding: 20px;" />
                       </td>
                     </tr>
                   </table>

@@ -188,13 +188,6 @@ xmlns:o="urn:schemas-microsoft-com:office:office">
     display: none;
   }
 
-  .headerLogo {
-    width: 100%;
-    height: auto;
-    margin: auto;
-    display: block;
-  }
-
   /*BUTTON*/
   .btn {
     padding: 1rem 5rem;
@@ -628,7 +621,7 @@ xmlns:o="urn:schemas-microsoft-com:office:office">
     }
 
     .headerLogo {
-      width: 100%;
+      width: 180px !important;
       height: auto;
       display: block;
     }

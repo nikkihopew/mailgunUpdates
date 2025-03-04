@@ -254,62 +254,6 @@ xmlns:o="urn:schemas-microsoft-com:office:office">
     font-family: Arial, Helvetica, sans-serif;
   }
 
-
-  .email-header {
-    font-family: Oxygen, sans-serif;
-    font-weight: 400;
-    color: #ffffff;
-    line-height: 0.8;
-
-  }
-
-  .email-header .heading {
-    color: #ffffff;
-    font-weight: 700;
-  }
-
-  .email-header .headingLeft {
-    font-size: var(--font-size-600);
-  }
-
-  .email-header .contentLeft {
-    font-size: var(--font-size-450);
-  }
-
-  .email-header .headingCenter {
-    font-size: var(--font-size-800);
-  }
-
-  .email-header .contentCenter {
-    font-weight: 300;
-    font-size: var(--font-size-400);
-  }
-
-  .email-header .contentRight {
-    font-size: var(--font-size-400);
-  }
-
-  .email-header ul {
-    margin: 0;
-    padding: 0;
-  }
-
-  .email-header ul li {
-    list-style: none;
-    margin-bottom: 10px;
-  }
-
-  .email-header ul li a {
-    color: #ffffff;
-  }
-
-  .email-header .centerImages {
-    display: inline-block;
-    padding: 2%;
-  }
-
-
-
   /*HERO*/
   .hero {
     position: relative;

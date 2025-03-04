@@ -845,17 +845,16 @@ xmlns:o="urn:schemas-microsoft-com:office:office">
         style="margin: auto;">
         <tr>
           <td class="email-header">
-            <table>
+            <table align="center" role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
               <tr>
                 <td width="100%" style="vertical-align: middle; padding: 0">
                   <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
                     <tr>
-                      <td style="text-align: center;">
+                      <td width="100%" style="width: 100%; text-align: center; background-image: https://7324260.fs1.hubspotusercontent-na1.net/hubfs/7324260/Email%20Header%20Background.png; background-color: #fff; background-size: cover; background-repeat: no-repeat;">
                         <!-- Default logo -->
                         <picture>
-                          <source media="(max-width: 768px)" srcset="https://static-cdn.maleexcel.com/email/header/femexcel/femMobileHeader.png">
-                          <img src="https://static-cdn.maleexcel.com/email/header/femexcel/femDesktopHeader.png" alt="left logo" class="headerLogo heading-img"
-                            style="width:100%" />
+                          <img src="https://7324260.fs1.hubspotusercontent-na1.net/hubfs/7324260/fem%20excel%20teal-1.png" alt="Fem Excel logo" class="headerLogo heading-img"
+                            style="width:200px" />
                         </picture>
                       </td>
                     </tr>
